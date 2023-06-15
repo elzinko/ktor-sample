@@ -1,0 +1,1 @@
+rootProject.name = "thomas.couderc.fr.ktor-sample"
